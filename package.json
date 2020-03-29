@@ -1,0 +1,17 @@
+{
+  "name": "events-rest-node",
+  "version": "1.0.0",
+  "description": "",
+  "config" : { "port" : "3000" },
+  "main": "events-api.js",
+  "scripts": {
+    "start": "node events-api.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "middleland.space",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "express": "^4.17.1"
+  }
+}
