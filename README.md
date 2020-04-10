@@ -4,7 +4,7 @@
 myevents-webapp-express
 ```
 
-an example of a web API app server that can run on a computer to allow monitoring and control from a web client.
+Example of a web API app server that can run on a computer to allow monitoring and control from a web client.
 App uses Node & Express that provide a RESTful API responding to an ajax request, and returns a JSON object which can be directly referenced in the client.
 
 events-api.js is a node.js application. its an http server which serves html and js files, and also responds to API requests
