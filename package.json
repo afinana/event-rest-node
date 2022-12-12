@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "connect": "^3.7.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "async": "^2.6.2",    
     "mongodb": "^2.2.36",
     "underscore": "^1.8.3"
